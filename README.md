@@ -4,7 +4,7 @@ Google Colab: https://colab.research.google.com/drive/1s8MXo2iQ1XSTjU4gdhMlBj5Ab
 
 This project was designed to develop an artificial intelligence (AI) system capable of accurately classifying and identifying types of Thai herbs with medicinal properties. The system applies image processing techniques on plant leaves, utilizing features such as shape, size, color, vein patterns, and texture, which vary among different herb species.
 
-![Result](image.png)
+![image](https://github.com/user-attachments/assets/3a5bb17e-ed8b-48ef-b58f-fcd27049b535)
 
 ### Theories Used
 
