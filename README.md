@@ -17,10 +17,10 @@ The application of Machine Learning models to analyze and process images. These 
 **Predict Image Classification**  
 The task of predicting or automatically categorizing input images into predefined classes.
 
-##### Data Collection and Preparation  
+### Data Collection and Preparation  
 Selecting appropriate data sources is crucial to ensure that the developed model is accurate and reliable. Therefore, the project team sought standardized and high-quality images of Thai herbs by selecting trusted websites or databases, such as Kaggle, which provides quality datasets covering the classification of Thai herbs. Additionally, the team captured supplementary images themselves to enrich the dataset.
 
-##### The data was divided into three parts as follows:  
+### The data was divided into three parts as follows:  
 
 1. **Training Data**: 70% of the total images for each type of herb were allocated for training the model.  
 2. **Validation Data**: 20% of the total images for each type of herb were used for model validation.  
